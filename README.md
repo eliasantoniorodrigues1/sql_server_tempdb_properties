@@ -1,0 +1,1 @@
+# sql_server_tempdb_properties
